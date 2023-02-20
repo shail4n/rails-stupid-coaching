@@ -18,8 +18,13 @@
   padding: 20px;
  }
 .form {
+padding: 20px;
 font-size: 28px;
 margin: 20px;
-border-left: solid ;
+border-left: solid 5px;
 border-left-color: grey;
+}
+
+.link {
+color: black;
 }
